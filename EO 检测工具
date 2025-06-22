@@ -1,0 +1,6 @@
+seo-checker/
+├── app.py                  # Flask 主程序
+├── templates/
+│   └── index.html          # 页面模板
+├── requirements.txt        # Python 依赖库列表
+└── README.md               # 可选说明文档
